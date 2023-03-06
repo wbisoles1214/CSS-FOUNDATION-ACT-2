@@ -1,0 +1,25 @@
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+div {
+  padding: 10px 20px;
+  background-color: black;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  color: white 
+}
+
+
+.alert-text {
+  display: inline-block;
+  color: black;
+  margin-left: 20px;
+  font-weight: bold;
+  background-color: yellow 
+}
